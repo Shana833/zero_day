@@ -1,1 +1,1 @@
-Repository created on computer terminal 
+Repo created in computer terminal
